@@ -31,3 +31,12 @@ printf("\nresult = pass");
 else
 printf("\nresult = fail");
 }
+/*enter name of student : Addepalli.Bharath
+enter reg.no of student : RA2111003011640
+enter marks of sub1=90
+enter marks of sub2=90
+enter value of sub2=90
+total marks= 270
+average of all = 90.000000
+result = pass
+grade=A*/
